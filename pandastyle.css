@@ -7,6 +7,10 @@ body {
     line-height: 25px;
 }
 
+p {
+    border:solid 3px #929292;
+}
+
 .column {
     width:600px;
     margin: 40px auto ;
