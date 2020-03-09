@@ -10,6 +10,7 @@ body {
 p {
     border:solid 3px #929292;
     padding: 20px;
+    border-radius: 20px;
 }
 
 .column {
