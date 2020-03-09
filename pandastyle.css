@@ -6,6 +6,7 @@ body {
     font-family: Arial;
     line-height: 25px;
     background-color: #fdfd96;
+    margin: 0;
 }
 
 h1 {
@@ -15,5 +16,7 @@ h1 {
 
 .column {
     width:600px;
-    margin: 40px auto ;
+    margin: 0px auto ;
+    background-color: white;
+    padding: 1px 40px 40px 40px;
 }
