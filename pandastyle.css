@@ -5,6 +5,7 @@ img {
 body {
     font-family: Arial;
     line-height: 25px;
+    border: dotted 15px #929292;
 }
 
 .column {
