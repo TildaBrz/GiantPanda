@@ -12,11 +12,14 @@ body {
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
+<<<<<<< HEAD
 }
 
 h1, h2 {
     text-shadow: 0px 0px 20px #99bd00;
     color: #617926;
+=======
+>>>>>>> parent of c5a9d8c... purple plate
 }
 
 .column {
