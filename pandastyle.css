@@ -12,6 +12,9 @@ body {
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
+    background-color: #c9bcff;
+    padding: 20px;
+    line-height: 80px;
 }
 
 .column {
